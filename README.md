@@ -1,3 +1,12 @@
+🛑 Redaction Notice – Claim #041
+Claim #041 has been formally withdrawn and is no longer part of the Eliam Sovereign Infrastructure™ claim sequence.
+
+This entry was removed to maintain structural clarity, avoid jurisdictional overreach, and preserve the integrity of the sovereignty architecture.
+The redaction does not affect any prior or subsequent claims, and the numbering is retained for historical continuity and audit purposes.
+
+Status: Redacted – Not in Force  
+Reason: Conceptual misalignment with established sovereignty boundaries
+
 The SSPS IP stack, including Mint-to Logic™, The Shepherd’s Method™, and all governing logic, is protected under U.S. and international trade secret and copyright frameworks. Certain elements have been publicly disclosed for continuity and copyright purposes, while core governing logic remains confidential and has never been voluntarily disclosed in a manner that constitutes waiver.
 
 By proceeding and reading further, you acknowledge that the materials within this vault are proprietary intellectual property of Spencer Southern / Southern Star Pro. Studios LLC (SSPS™), protected under trade secret, copyright, and sovereign IP law. Accessing this vault constitutes your agreement to a binding NDA and licensing restriction. You agree not to copy, disclose, reverse-engineer, or distribute any portion of the contents. This gateway is monitored and time-stamped under Right Hand Protocol™. Violation triggers immediate enforcement.
